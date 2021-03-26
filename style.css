@@ -99,9 +99,9 @@ h6 {
 	border: 1px solid var(--borderColor);
 	border-radius: 5px 5px 0 0;
 
-	-webkit-box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
-	-moz-box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
-	box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
+	-webkit-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
 
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -147,9 +147,9 @@ h6 {
 	border-radius: 50%;
 	margin: 5px;
 
-	-webkit-box-shadow: -3px 14px 22px -11px rgba(140, 140, 140, 1);
-	-moz-box-shadow: -3px 14px 22px -11px rgba(140, 140, 140, 1);
-	box-shadow: -3px 14px 22px -11px rgba(140, 140, 140, 1);
+	-webkit-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
 }
 
 #dot-1 {
@@ -188,9 +188,9 @@ h6 {
 	margin: 5px;
 	border: 2px solid var(--themeDotBorder);
 
-	-webkit-box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
-	-moz-box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
-	box-shadow: 0px 9px 22px 0px rgba(176, 176, 176, 1);
+	-webkit-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
 	cursor: pointer;
 }
 
@@ -306,9 +306,9 @@ h6 {
 
 .post {
 	border: 1px solid var(--borderColor);
-	-webkit-box-shadow: 0px 10px 51px 0px rgba(156, 156, 156, 1);
-	-moz-box-shadow: 0px 10px 51px 0px rgba(156, 156, 156, 1);
-	box-shadow: 0px 10px 51px 0px rgba(156, 156, 156, 1);
+	-webkit-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
+	box-shadow: 0px 10px 36px -16px rgba(0, 0, 0, 1);
 }
 
 .post-preview {
